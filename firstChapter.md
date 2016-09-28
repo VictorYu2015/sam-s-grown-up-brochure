@@ -7,3 +7,5 @@
 ## he,him,his
 ## she,her,hers
 ## we,our,ours,us
+## today,yesterday,tomorrow
+## tired
