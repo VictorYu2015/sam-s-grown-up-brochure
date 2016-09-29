@@ -3,10 +3,12 @@
 ## this,that,the
 ## there,here
 ## these,those
+## they,them,their,theirs
 ## you,your,yours
 ## he,him,his
 ## she,her,hers
-## we,our,ours,us
-## today,yesterday,tomorrow
+## we,us,our,ours
+## today,yesterday,tommorow
 ## tired
 ## pebbles
+## great
